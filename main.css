@@ -1,0 +1,13 @@
+body {
+background-color: #eee8cd;
+margin:40px 60px;
+border: 5px solid Gold;
+}
+div{
+ background-color: #cdc8b1;
+ background-image: url("https://www.transparenttextures.com/patterns/binding-dark.png");
+}
+footer {
+  background-color: #cdc8b1;
+  background-image: url("https://www.transparenttextures.com/patterns/binding-dark.png");
+}
